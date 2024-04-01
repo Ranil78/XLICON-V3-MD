@@ -58,11 +58,11 @@ global.ownername = process.env.SUDO_NAME || '© ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀ
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VDtE3f"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/CR5LdIBEWj65sK2qO2mBfN"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© ᴄʜᴀᴅ ʜᴜʙ"
+global.wm = process.env.GL_WM || "© ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
@@ -89,15 +89,15 @@ global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country c
 //________________________________________________________________________________________________________
 global.antiforeignnumber = process.env.AUTO_BLOCK || '212' //set anti foreign number country code
 //________________________________________________________________________________________________________
-global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
+global.welcome = process.env.WELCOME_MSG || false //welcome/left in groups
 //________________________________________________________________________________________________________
 global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
 //________________________________________________________________________________________________________
-global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
+global.autoswview = process.env.AUTO_STATUS_SEEN || false //auto status/story view
 //________________________________________________________________________________________________________
-global.adminevent = process.env.ANNOUNCE_MSG  || true //show promote/demote message
+global.adminevent = process.env.ANNOUNCE_MSG  || false //show promote/demote message
 //________________________________________________________________________________________________________
-global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update messages in group chat
+global.groupevent = process.env.GROUP_ANNOUNCE_MSG || false //show update messages in group chat
 //________________________________________________________________________________________________________
 
 
@@ -105,7 +105,7 @@ global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update message
 global.mess = {
 	limit: '_*Your limit is up!*_',
 	nsfw: '_*Nsfw is disabled in this group, Please tell the admin to enable*_',
-    done: '_*Done ✓* ©ₘₐₗᵢₜₕ_',
+    done: '_*Done ✓*_',
     error: '_*I am having error to execute this*_',
     success: '_*Here you go!*_'
 }
