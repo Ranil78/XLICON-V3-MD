@@ -105,7 +105,7 @@ global.groupevent = process.env.GROUP_ANNOUNCE_MSG || false //show update messag
 global.mess = {
 	limit: '_*Your limit is up!*_',
 	nsfw: '_*Nsfw is disabled in this group, Please tell the admin to enable*_',
-    done: '_*Done ✓*_',
+    done: '_*Done ✓*_/n > ʟᴀᴋʏ_Mᴅ',
     error: '_*I am having error to execute this*_',
     success: '_*Here you go!*_'
 }
