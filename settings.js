@@ -50,25 +50,25 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'ᴄʜᴀᴅ ʜᴜʙ ᴏꜰꜰɪᴄɪᴀʟ' //ur bot name
+global.botname = process.env.BOT_NAME || 'ʟᴀᴋʏ - ᴍᴅ ✓' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '94789570921' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || '© ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://youtubcom/@s4lmanyt"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaU7fN159PwW7GaLsr2f"
+global.wagc = process.env.GL_PUSH || "https://wa.me//+94789570921"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://ghub.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "LkY"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY Ubetatt"
+global.author = process.env.AUTHER_NAME || "ᴍᴀʟɪᴛʜ ʟᴀᴋꜱʜᴀɴ"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
